@@ -1,0 +1,31 @@
+<RelativeLayout
+    android:id="@+id/frame1"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="vice.pribo.sumsumgates.MapsActivity" >
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/sumsumFab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="16dp"
+        android:layout_marginRight="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        map:fab_colorNormal="@color/colorAccent"
+        android:src="@drawable/sumsumiconwhite"
+        android:layout_marginEnd="16dp"
+        android:layout_alignParentRight="true"
+        tools:ignore="RtlCompat" />
+
+
+
+</RelativeLayout>

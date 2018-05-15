@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "231715036042",
+    "firebase_url": "https://sumsumgates-bc312.firebaseio.com",
+    "project_id": "sumsumgates-bc312",
+    "storage_bucket": "sumsumgates-bc312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231715036042:android:164f7d27007286d6",
+        "android_client_info": {
+          "package_name": "vice.pribo.sumsumgates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231715036042-lkqkedrncnnngjeilp4sqq805emaiqgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vice.pribo.sumsumgates",
+            "certificate_hash": "c9326e9913f207b670ad71282e6922116d31711e"
+          }
+        },
+        {
+          "client_id": "231715036042-7f23j6hqha1vabm286moia3n3pr3lkde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtgdejPE7OvGp65uTgsw7QjmBl7shbSt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231715036042-7f23j6hqha1vabm286moia3n3pr3lkde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
